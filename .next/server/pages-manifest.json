@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/createuser": "pages/api/createuser.js",
+  "/api/getCurrentUserData": "pages/api/getCurrentUserData.js",
+  "/api/getTopTen": "pages/api/getTopTen.js",
+  "/api/tokenTransfer": "pages/api/tokenTransfer.js",
+  "/currencies/info": "pages/currencies/info.js",
+  "/currencies/price": "pages/currencies/price.js",
+  "/": "pages/index.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
+}
